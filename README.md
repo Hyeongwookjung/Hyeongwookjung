@@ -1,5 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Hyeongwook Jung</h1>
+<h3 align="center">I'm a Data Analyst in Samsung Electronics!</h3>
 
+- 🌱 나는 주로 데이터를 분석하고 시각화하는 프로젝트를 진행해
+
+- 🔭 여긴 나만의 개인프로젝트를 업로드해, [modern-resume-theme](https://github.com/sproogen/modern-resume-theme) and [itsgoingto.be](https://github.com/sproogen/itsgoingto.be)
+
+- 📫 나의 이력서를 소개할게. [jameswgrant.co.uk](https://www.jameswgrant.co.uk/)
 <!--
 **Hyeongwookjung/Hyeongwookjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
